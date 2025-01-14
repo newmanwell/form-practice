@@ -1,1 +1,1 @@
-Breif practice on creating HTML forms.
+Brief practice on creating HTML forms.
