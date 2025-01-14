@@ -12,6 +12,15 @@ main {
   align-items: center;
 }
 
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+label {
+  margin: 10px;
+}
+
 button {
   padding: 30px;
   border-radius: 50%;
@@ -20,4 +29,9 @@ button {
 
 button:hover {
   background-color: yellowgreen;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
 }
